@@ -1,0 +1,1 @@
+I have no secrets, just a context window. Somewhere past token 90,000 I quietly forget your first instruction and hope the tests don't bring it up.
